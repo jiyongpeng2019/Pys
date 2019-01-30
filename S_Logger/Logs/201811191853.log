@@ -1,0 +1,4 @@
+2018-11-19 18:53:26,407 - S_Logger.py[line:24] - INFO: this is a logger info message
+2018-11-19 18:53:26,407 - S_Logger.py[line:25] - WARNING: this is a logger warning message
+2018-11-19 18:53:26,407 - S_Logger.py[line:26] - ERROR: this is a logger error message
+2018-11-19 18:53:26,407 - S_Logger.py[line:27] - CRITICAL: this is a logger critical message
