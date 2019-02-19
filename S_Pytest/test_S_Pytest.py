@@ -1,4 +1,5 @@
 # coding:utf-8
+import pytest
 
 
 def func(x):
@@ -7,3 +8,7 @@ def func(x):
 
 def test_func():
     assert func(2) == 3
+
+
+if __name__ == "__main__":
+    pytest.main("-q --html=a.html")
